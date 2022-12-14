@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DianHasnaRamadhani/dianhasnaramadhani.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/DianHasnaRamadhani/dianhasnaramadhani.github.io.git/static/js/main.73670b6b.js",
+    "static/js/787.cfb972fd.chunk.js": "/DianHasnaRamadhani/dianhasnaramadhani.github.io.git/static/js/787.cfb972fd.chunk.js",
+    "static/media/logo.svg": "/DianHasnaRamadhani/dianhasnaramadhani.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DianHasnaRamadhani/dianhasnaramadhani.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/DianHasnaRamadhani/dianhasnaramadhani.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.73670b6b.js.map": "/DianHasnaRamadhani/dianhasnaramadhani.github.io.git/static/js/main.73670b6b.js.map",
+    "787.cfb972fd.chunk.js.map": "/DianHasnaRamadhani/dianhasnaramadhani.github.io.git/static/js/787.cfb972fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.73670b6b.js"
+  ]
+}
